@@ -2,4 +2,10 @@
 
 Type lemurian script on your Android device.
 
+- Change input to arabic
+- Activate RTL mode
+- Apply lemurian font
+
+`npm install`
+
 `npm start`
